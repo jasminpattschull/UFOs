@@ -3,7 +3,7 @@
 Module 11
 
 ## Overview
-The purpose of this analysis was to further enhance the UFO sightings table data that was generated in the module work. Originally a filter was provided for the date field only. This analysis added in filters for city, state, country and shape.
+The purpose of this analysis was to further enhance the UFO sightings table data that was generated in the module work. Originally, a filter was provided for the date field only. This analysis added in filters for city, state, country and shape.
 
 ## Results
 Now that code has been created, it is a relatively easy process to obtain the desired results on the webpage. Once the webpage is up, simply type in the preferred parameters and then hit Enter on the keyboard. The results filter automatically and instaneously for all five criteria consecutively.
