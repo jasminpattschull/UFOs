@@ -9,7 +9,7 @@ The purpose of this analysis was to further enhance the UFO sightings table data
 Now that code has been created, it is a relatively easy process to obtain the desired results on the webpage. Once the webpage is up, simply type in the preferred parameters and then hit Enter on the keyboard. The results filter automatically and instaneously for all five criteria consecutively.
 
 
-**insert image**
+![Filter_Screenshot](https://user-images.githubusercontent.com/90632470/144686515-285d1648-c9e0-46b0-be84-38513445e19d.png)
 
 
 ## Summary
